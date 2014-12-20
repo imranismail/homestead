@@ -9,3 +9,7 @@ Official documentation [is located here](http://laravel.com/docs/homestead?versi
 Forked this repo to add vagrant-hostsupdater function
 
 before doing anything make sure you've installed the vagrant-hostsupdater plugin
+
+```
+vagrant plugin install vagrant-hostsupdater
+```
